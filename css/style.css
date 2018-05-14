@@ -1,0 +1,204 @@
+.container{
+	width: 100%;
+	height: auto;
+		}	
+
+header {
+	    background-color: #b2b2B2;
+	    padding-left: 40%;
+
+}
+.socia img {
+	margin:6px;
+}
+
+	.indexnav ul{
+		display:flex;
+		background-color: #332d2f;
+		height: 80px;
+
+		}
+	.indexnav nav ul{
+		justify-content: center;
+	}
+
+	.indexnav ul li{
+
+		padding: 10px 20px;
+		margin-bottom: 10px;
+		margin-top: 20px;
+		background-color: #443d3f;
+		font-family: "helvetica";
+		text-decoration: none;	
+		text-transform: uppercase;
+		}
+
+	.indexnav ul li a{
+	text-decoration: none;	
+}
+
+nav{
+background-color: #332d2f;
+width: 100%;
+height: 70px;
+}
+
+nav ul{
+	display:flex;
+	float: right;
+	
+}
+
+nav ul li {
+	margin-top: 25px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+
+	
+	}
+
+
+ nav ul li a{
+	padding:10px;
+	text-decoration: none;
+	background-color: #443d3f;	
+	font-family: "helvetica";
+	color:#b2b2b2;
+	text-transform: uppercase;
+	}
+
+.logo{
+	background-color: #332d2f;
+	position: absolute;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	margin-left: 20px;
+}
+
+.active {
+	background-color: #7b2f8f;
+	color: #28cec9;
+}
+
+
+
+
+a:link {
+	    color: grey;
+		}
+
+a:visited {
+		color: #b2b2B2;
+		}
+
+		
+a:hover {
+	   color: #b2b2b2;
+	   background-color: #d05133;
+		}
+
+a:hover {
+		color: #28cec9;
+}
+		
+	a:active {
+	    color: #28cec9;
+	    background-color: #8f3727;
+		}
+
+
+.indexsection img{
+    width: 100%;
+    height: auto;
+}
+
+
+	.infosection {
+		display: flex;
+	margin-right: 100px;
+	margin-left:0px;
+	padding: 70px;
+	}
+
+	.infosection .article{
+		padding: 25px;
+	}
+
+	.infosection img{
+		margin-top:50px;
+		width: 100%;
+    height: auto;
+
+	}
+
+.uno{
+	padding-left:60%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	background-color: #b2b2b2;
+	font-family: "helvetica"
+
+}
+
+footer{
+	background-color: #453c3f;
+	font-family: "helvetica"
+	}
+
+.wrapper {
+	display:flex;
+	background-color: #453c3f;
+}
+
+.wrapper div{
+	border: 0px solid red;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	background-color: #b2b2b2;
+}
+
+.wrapperimg{
+	background-color: #453c3f;
+	
+}
+
+section {
+	background-color: #453c3f;
+}
+.links{
+	justify-content: center;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+
+.participante img{
+	padding: 40px;
+
+}
+
+.participante{
+	text-justify:auto;
+
+}
+.article {
+	
+	background-color: #b2b2b2;
+
+}
+
+.article p{
+	font-size: 25px;
+	color: #443d3f;
+	font-family: "helvetica"
+}
+
+
+
+
+
+
+

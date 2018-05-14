@@ -1,0 +1,77 @@
+.container{
+	height: 768px;	
+}
+
+	/*INDEX*/
+	header img{
+		margin-top: 19px;
+		margin-left: 580px;
+		margin-bottom: 8px;
+		}
+
+	.indexnav ul{
+		display:flex;
+		justify-content: center;
+		}
+
+
+	.indexnav ul li{
+		padding: 10px 30px;
+		margin-bottom: 20px;
+		margin-left: 4px;
+		background-color: pink;	
+		}
+
+nav ul{
+	display:flex;
+	
+	}
+
+nav ul li{
+	width: 1366px;
+	padding: 4px;
+	margin-bottom: 4px;
+	background-color: pink;	
+	}
+
+	a:link {
+	    color: grey;
+		}
+
+	/* visited link */
+	a:visited {
+		color: white;
+		}
+
+		/* mouse over link */
+	a:hover {
+	   color: #fff27b;
+		}
+
+		/* selected link */
+	a:active {
+	    color: #fff27b;
+		}
+
+nav ul li a{
+   text-decoration: none;
+	}
+
+
+	/*INDEX*/
+	.indexsection {
+		margin-right: 100px;
+		margin-left:100px;
+		}
+
+
+	.infosection {
+	display: flex; 
+	margin-right: 100px;
+	margin-left:50px;
+	}
+
+footer{
+	background-color: pink;
+	}
+
